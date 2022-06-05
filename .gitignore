@@ -1,4 +1,5 @@
 .DS_Store
+.vscode
 .vite-ssg-dist
 .vite-ssg-temp
 *.local
